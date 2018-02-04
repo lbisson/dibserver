@@ -1,0 +1,1 @@
+{"jenkins_version":"","app":{"app_name":"hello","pipeline":{"app_type":"DOCKER_RUN","build_job":{"version_control":{"type":"github","url":"github.com/hello","branch":"master"},"build_target":"build.com"},"deploy_job":{"deploy_target":"deploy.com","deploy_commands":""},"test_job":{"test_type":"","test_command":""}}}}
